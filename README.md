@@ -1,5 +1,5 @@
-Here is your clean, professional **README.md** file (final version, structured properly and ready to paste into GitHub):
-
+PLEASE REFER OFFICIAL DOCUMENTATION
+[since many things change with time and many libraries or function get deprecated]
 ---
 
 # ☕ Buy Me a Chai – Blockchain DApp
@@ -60,8 +60,8 @@ This project demonstrates end-to-end blockchain development using **Hardhat 2**,
 > edit sepolia testnet and put all values shown above
 
 ---
-##   [sepolia testnet network creation on metamask]
-![sepolia testnet network creation on metamask](./imagesgif/image2.png)
+##   [Web Permission Changes in MetaMask]
+![Web Permission Changes in MetaMask](./imagesgif/BlockChainProjectpart2.gif)
 
 > In this Demonstration I have shown what all changes you need to make in the metamask web permission tab in meta mask extension
 > very important part otherwise you would get error
@@ -216,7 +216,7 @@ Transaction visible on Sepolia Etherscan
 
 # 👨‍💻 Author
 
-**BHOMBAL KAIF AJAZ**
+**KAIF AJAZ BHOMBAL**
 
 GitHub Repository:
 [https://github.com/Skaif-123/Buy-me-Chai-Block-Chain-Project-](https://github.com/Skaif-123/Buy-me-Chai-Block-Chain-Project-)
