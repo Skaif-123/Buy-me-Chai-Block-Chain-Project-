@@ -47,17 +47,24 @@ This project demonstrates end-to-end blockchain development using **Hardhat 2**,
 ---
 
 ##   [Alchemy Network enabled]
-![Alchemy Network enabled](image1.png)
+![Alchemy Network enabled](./imagesgif/image1.png)
 
 > How we have activated testnet 
 > We have created a testnet in alchemy and then used that testnet network in metamask .
 
 ---
 ##   [sepolia testnet network creation on metamask]
-![sepolia testnet network creation on metamask](image.png)
+![sepolia testnet network creation on metamask](./imagesgif/image2.png)
 
 > You can see how created sepolia testnet network using alchemy URL
 > edit sepolia testnet and put all values shown above
+
+---
+##   [sepolia testnet network creation on metamask]
+![sepolia testnet network creation on metamask](./imagesgif/image2.png)
+
+> In this Demonstration I have shown what all changes you need to make in the metamask web permission tab in meta mask extension
+> very important part otherwise you would get error
 
 ---
 
